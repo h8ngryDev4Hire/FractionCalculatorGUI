@@ -1,0 +1,17 @@
+E:\Projects\C# Applications\FractionCalculatorGUI\bin\Debug\net6.0-windows\FractionCalculatorGUI.exe
+E:\Projects\C# Applications\FractionCalculatorGUI\bin\Debug\net6.0-windows\FractionCalculatorGUI.deps.json
+E:\Projects\C# Applications\FractionCalculatorGUI\bin\Debug\net6.0-windows\FractionCalculatorGUI.runtimeconfig.json
+E:\Projects\C# Applications\FractionCalculatorGUI\bin\Debug\net6.0-windows\FractionCalculatorGUI.dll
+E:\Projects\C# Applications\FractionCalculatorGUI\bin\Debug\net6.0-windows\FractionCalculatorGUI.pdb
+E:\Projects\C# Applications\FractionCalculatorGUI\obj\Debug\net6.0-windows\FractionCalculatorGUI.csproj.AssemblyReference.cache
+E:\Projects\C# Applications\FractionCalculatorGUI\obj\Debug\net6.0-windows\FractionCalculatorGUI.csproj.GenerateResource.cache
+E:\Projects\C# Applications\FractionCalculatorGUI\obj\Debug\net6.0-windows\FractionCalculatorGUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\C# Applications\FractionCalculatorGUI\obj\Debug\net6.0-windows\FractionCalculatorGUI.AssemblyInfoInputs.cache
+E:\Projects\C# Applications\FractionCalculatorGUI\obj\Debug\net6.0-windows\FractionCalculatorGUI.AssemblyInfo.cs
+E:\Projects\C# Applications\FractionCalculatorGUI\obj\Debug\net6.0-windows\FractionCalculatorGUI.csproj.CoreCompileInputs.cache
+E:\Projects\C# Applications\FractionCalculatorGUI\obj\Debug\net6.0-windows\FractionCalculatorGUI.dll
+E:\Projects\C# Applications\FractionCalculatorGUI\obj\Debug\net6.0-windows\refint\FractionCalculatorGUI.dll
+E:\Projects\C# Applications\FractionCalculatorGUI\obj\Debug\net6.0-windows\FractionCalculatorGUI.pdb
+E:\Projects\C# Applications\FractionCalculatorGUI\obj\Debug\net6.0-windows\FractionCalculatorGUI.genruntimeconfig.cache
+E:\Projects\C# Applications\FractionCalculatorGUI\obj\Debug\net6.0-windows\ref\FractionCalculatorGUI.dll
+E:\Projects\C# Applications\FractionCalculatorGUI\obj\Debug\net6.0-windows\FractionCalculatorGUI.FracCalcGUI.resources
